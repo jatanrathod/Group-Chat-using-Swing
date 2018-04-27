@@ -9,5 +9,5 @@ $ git clone https://github.com/jatanrathod/Group-Chat-using-Swing.git
 ```
 Now, run the server.java from server/src/server/ on a machine.<br>
 then get the ip address of the server machine and put in the socket object of client.java in client/src/client/<br>
-Now, run the clinet on another machine.<br>
+Now, run the client on another machine.<br>
 Done. :)
